@@ -1,52 +1,76 @@
-<h1 align="center">Hey 👋 Pavan here!!</h1>
+<h1 align="center">Hi 👋, I'm Pavan</h1>
+<h3 align="center">🚀 Builder | 💻 CSE Student | 💪 Fitness Enthusiast</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pa1kumar3324-wq&label=Visitors&color=ff69b4&style=flat-square" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+## 🎨 A little about me
+- 🎓 CSE @ RNSIT  
+- 🧠 I like building things that actually *do something*  
+- 🤖 Into AI, robotics, and real-world tech  
+- 💪 Gym + discipline = lifestyle  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+---
 
-###
+## 🧠 Currently Working On
+- 🤖 AI-powered systems & automation  
+- 🚁 Drone rescue system (vision + thermal detection)  
+- 🌐 Full-stack projects with real users  
+- 🧩 Leveling up DSA  
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
+## ⚙️ Tech Stack (my toolkit)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,linux,git,github,vscode" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 🌐 Live Projects
+- 🚀 **Project Name** → https://your-link.com  
+- 🤖 **Project Name** → https://your-link.com  
+- 🌍 **Project Name** → https://your-link.com  
+
+---
+
+## 📊 GitHub Stats (the fun graphs)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pa1kumar3324-wq&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pa1kumar3324-wq&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa1kumar3324-wq&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (because why not)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pa1kumar3324-wq/pa1kumar3324-wq/output/snake.svg" />
+</p>
+
+---
+
+## 🎯 Goals
+- 💡 Build something impactful  
+- 🏆 Become elite in coding + fitness  
+- 🌍 Create tech that scales  
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ "Consistency compounds. Small wins, every day."</i>
+</p>
