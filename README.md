@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Student | Builder | Fitness Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=pa1kumar3324-wq&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
 </p>
 
 ---
