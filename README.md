@@ -31,9 +31,9 @@
 ---
 
 ## 🌐 Live Projects
-- 🚀 **Project Name** → https://your-link.com  
-- 🤖 **Project Name** → https://your-link.com  
-- 🌍 **Project Name** → https://your-link.com  
+- 🚀 **Decentralized Swarm Drones for Search and Rescue Operations**  
+- 🤖 **Zefender ad player system** 
+- 🌍 **Aira: emotionally intelligent AI agent**
 
 ---
 
