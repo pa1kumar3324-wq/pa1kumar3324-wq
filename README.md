@@ -25,6 +25,6 @@
 
 ## 🛠️ Tech Stack
 ```bash
-Languages:   Python | C | C++ | JavaScript  
-Tools:       Git | GitHub | Linux | VS Code  
-Domains:     Web Dev | AI/ML | Robotics  
+Languages:   Python | C | C++   
+Tools:       Git | GitHub | Linux | VS Code | WeBots  
+Domains:     Web Dev | AI/ML | Robotics 
