@@ -25,7 +25,7 @@
 
 ## ⚙️ Tech Stack (my toolkit)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,linux,git,github" />
 </p>
 
 ---
